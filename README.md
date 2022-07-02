@@ -15,6 +15,3 @@ metrics.LE(ground_truth_box, predicted_box)
 
 #...
 ```
-
-## Contributing
-For major changes, please open an issue first to discuss what you would like to change.
